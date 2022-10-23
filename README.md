@@ -1,4 +1,4 @@
-# Canal Expertos Tech
+# Atividade autenticação com JWT
 
 **Vídeo tutorial:** </br>
 
@@ -14,8 +14,3 @@ Playlist: https://youtu.be/YgfO8EHLAEc&list=PLTN1gMq8EHuIvkz0ZdFSufK-eI0FrnkvI
 
 Será usado como base para o tutorial: Como criar um token JWT com Spring Boot, Spring Security e JPA.<br>
 Para isso os pacotes e o nome do projeto foi renomeado.
-
-Redes Sociais: https://linktr.ee/expertostech
-
-=================  
-NÃO CLIQUE AQUI: http://tiny.cc/1kzosz 
