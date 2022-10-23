@@ -2,9 +2,6 @@
 
 **Vídeo tutorial:** </br>
 
-
-**Redes Sociais:** https://linktr.ee/expertostech  
-
 # PROJETO INICIAL - COMO CRIAR UM TOKEN JWT COM SPRING SECURITY, AUTH0 E JPA | JAVA E POSTGRESQL
 
 **Nível:** Intermediário
